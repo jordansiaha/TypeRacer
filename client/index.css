@@ -1,0 +1,23 @@
+
+#menu {
+  background-image: url('img/menu.jpg');
+  display: none;
+}
+#menu.main {
+  display: block;
+}
+
+h1,h2 {
+  color: red;
+}
+
+#rwCanvas {
+  background-color: white;
+}
+
+#timer{
+  background-color:#419D78;
+  color:#EFD0CA;
+  font-size:20px;
+  text-align:center;
+}
